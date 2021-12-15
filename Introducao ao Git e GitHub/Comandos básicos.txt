@@ -1,0 +1,27 @@
+#Comandos basicos no Git
+
+cd – leva a um diretório.
+cd .. - retorna um nível no diretório
+dir – diretório
+mkdir – criar um diretório
+del/rmdir – deletar, mas o rmdir deleta o diretório e o o del apenas o que está dentro do diretório.
+ls – lista os diretórios de onde o Git Bash está.
+ls -a – lista os arquivos ocultos.
+mv arquivo ./ – mover arquivos ou pastas.
+git init - inicia um repositório oculto.
+git config --global user.email "wander.deivid@hotmail.com" – Cria um user name e um e-mail para o user.
+git config --global user.name Perkles – adiciona o nome Perkles ao user.
+git add * - Move o arquivo para o git saber que ele está pronto para sofrer uma ação e ter ciência da sua existência.
+git commit -m "texto" – Commita o arquivo com uma mensagem atrelada a ele.
+git status – mostra o estado dos arquivos, se tem alguma diferença. 
+git pull origin master – puxa o que está no github para a maquina.(ajuda quando o commit é rejeitado)
+git config –list – traz a lista de todas as configurações do git.
+git config --global –unset user.email – retira o e-mail associado ao git
+git config --global –unset user.name  - retira o e-mail associado ao git. 
+
+
+
+
+
+
+
